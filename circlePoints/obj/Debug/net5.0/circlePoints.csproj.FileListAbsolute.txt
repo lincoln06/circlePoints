@@ -1,0 +1,16 @@
+C:\Users\macie\source\repos\circlePoints\circlePoints\bin\Debug\net5.0\circlePoints.exe
+C:\Users\macie\source\repos\circlePoints\circlePoints\bin\Debug\net5.0\circlePoints.deps.json
+C:\Users\macie\source\repos\circlePoints\circlePoints\bin\Debug\net5.0\circlePoints.runtimeconfig.json
+C:\Users\macie\source\repos\circlePoints\circlePoints\bin\Debug\net5.0\circlePoints.runtimeconfig.dev.json
+C:\Users\macie\source\repos\circlePoints\circlePoints\bin\Debug\net5.0\circlePoints.dll
+C:\Users\macie\source\repos\circlePoints\circlePoints\bin\Debug\net5.0\ref\circlePoints.dll
+C:\Users\macie\source\repos\circlePoints\circlePoints\bin\Debug\net5.0\circlePoints.pdb
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\circlePoints.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\circlePoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\circlePoints.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\circlePoints.AssemblyInfo.cs
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\circlePoints.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\circlePoints.dll
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\ref\circlePoints.dll
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\circlePoints.pdb
+C:\Users\macie\source\repos\circlePoints\circlePoints\obj\Debug\net5.0\circlePoints.genruntimeconfig.cache

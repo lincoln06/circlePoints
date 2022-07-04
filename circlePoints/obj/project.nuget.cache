@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j0xjqQUSSdpEDf2IHHWZWYlaEk6SN3eDu0hJxg76OYVilLKDvfkkjGwoN8nM72/X4a/lVHxKGMaPe1yAxxKZAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\macie\\source\\repos\\circlePoints\\circlePoints\\circlePoints.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\macie\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
